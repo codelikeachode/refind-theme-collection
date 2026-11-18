@@ -11,3 +11,31 @@ Thumbs.db
 *.swp
 *.swo
 *~
+# Plasma / Linux
+.directory
+.Trash-*/
+# Image programs
+*.autosave
+*#*.svg#
+*.kra~
+*.kra.autosave
+# Archives
+*.zip
+*.tar.gz
+*.tar.xz
+# other stuff
+*.log
+*.log.*
+logs/
+log/
+/logs
+/log
+*.tmp
+*.temp
+# build output
+build/
+dist/
+out/
+*.min.*
+*.map
+# Should be good, i dont know
